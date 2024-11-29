@@ -1,6 +1,7 @@
 # THE-OPPENHEIMER-PROJECT
 
  BACKGROUND
+ 
  In the year 1969, the City of Carson is a growing city that housed close to millions of working class heroes^. To support the growing city population, a
  bill was passed that:
      ‘each working class hero is to contribute a fraction of their yearly income towards city building’
